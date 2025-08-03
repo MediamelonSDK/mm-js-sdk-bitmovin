@@ -1,1 +1,1 @@
-# mm-js-sdk-bitmovin
+# MediaMelon Bitmovin Player QoE SDK Integration Guide
