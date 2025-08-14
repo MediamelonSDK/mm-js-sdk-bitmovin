@@ -1,11 +1,17 @@
 {
   "name": "mediamelon-js-bitmovin-sdk",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "MediaMelon JS Bitmovin Player QoE SDK",
-  "main": "mmsmartstreaming_bitmovinplayer.min.js",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+   },
   "files": [
+    "index.js",
     "mmsmartstreaming_bitmovinplayer.min.js",
-    "README.md"
+    "mm-app-analytics-js-sdk.esm.min.js",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
