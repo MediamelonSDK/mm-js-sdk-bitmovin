@@ -1,6 +1,6 @@
 {
   "name": "mediamelon-js-bitmovin-sdk",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "description": "MediaMelon JS Bitmovin Player QoE SDK",
   "main": "./index.js",
   "exports": {
